@@ -1,0 +1,72 @@
+## (Bonded) 2s2p orbitals
+
+<p align="center"><img src=/Data/expectationPlots/Bonded/Bonded/plots/Bonded_K.png /></p>
+
+  | <sub>R^2</sub> | <sub>RMSE</sub> | <sub>LL_mean</sub> | <sub>QU_mean</sub> | <sub>Mean(LL-QU)</sub> | <sub>LL_std</sub> | <sub>QU_std</sub> | <sub>Std(LL-QU)</sub>
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:  
+<b><sub>CH_all</sub></b> | <sub>0.958304</sub> | <sub>8.117189</sub> | <sub>215.401058</sub> | <sub>213.926596</sub> | <sub>1.474462</sub> | <sub>10.493343</sub> | <sub>13.952656</sub> | <sub>4.258700</sub> |   
+<b><sub>NH_all</sub></b> | <sub>0.977679</sub> | <sub>2.907066</sub> | <sub>209.299537</sub> | <sub>209.213354</sub> | <sub>0.086183</sub> | <sub>8.477198</sub> | <sub>11.412237</sub> | <sub>3.284213</sub> |   
+<b><sub>OH_all</sub></b> | <sub>0.943151</sub> | <sub>5.547118</sub> | <sub>181.696827</sub> | <sub>180.527841</sub> | <sub>1.168986</sub> | <sub>6.827808</sub> | <sub>9.878060</sub> | <sub>3.632404</sub> |   
+<b><sub>NC_all</sub></b> | <sub>0.985384</sub> | <sub>2.502551</sub> | <sub>224.368112</sub> | <sub>226.277530</sub> | <sub>-1.909419</sub> | <sub>10.701397</sub> | <sub>13.084990</sub> | <sub>2.781317</sub> |   
+<b><sub>OC_all</sub></b> | <sub>0.985953</sub> | <sub>3.090059</sub> | <sub>202.806431</sub> | <sub>202.964781</sub> | <sub>-0.158350</sub> | <sub>12.013621</sub> | <sub>14.831977</sub> | <sub>3.233399</sub> |   
+<b><sub>FC_all</sub></b> | <sub>0.972833</sub> | <sub>2.470196</sub> | <sub>178.183085</sub> | <sub>173.212265</sub> | <sub>4.970820</sub> | <sub>6.896579</sub> | <sub>9.535616</sub> | <sub>2.960300</sub> |   
+<b><sub>CC_all</sub></b> | <sub>0.975857</sub> | <sub>6.390004</sub> | <sub>225.911528</sub> | <sub>229.003097</sub> | <sub>-3.091569</sub> | <sub>13.453616</sub> | <sub>16.268845</sub> | <sub>3.638963</sub> |   
+(kcal/mol)<br><br><br><br><br>
+
+
+<p align="center"><img src=/Data/expectationPlots/Bonded/Bonded/plots/Bonded_H1nuc.png /></p>
+
+  | <sub>R^2</sub> | <sub>RMSE</sub> | <sub>LL_mean</sub> | <sub>QU_mean</sub> | <sub>Mean(LL-QU)</sub> | <sub>LL_std</sub> | <sub>QU_std</sub> | <sub>Std(LL-QU)</sub>
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:  
+<b><sub>CH_all</sub></b> | <sub>0.997108</sub> | <sub>350.963526</sub> | <sub>-2443.237735</sub> | <sub>-2431.237870</sub> | <sub>-11.999865</sub> | <sub>329.868558</sub> | <sub>348.349592</sub> | <sub>25.964073</sub> |   
+<b><sub>NH_all</sub></b> | <sub>0.996314</sub> | <sub>157.618796</sub> | <sub>-2313.410085</sub> | <sub>-2300.874160</sub> | <sub>-12.535925</sub> | <sub>188.741481</sub> | <sub>206.795038</sub> | <sub>21.677688</sub> |   
+<b><sub>OH_all</sub></b> | <sub>0.995883</sub> | <sub>152.388240</sub> | <sub>-1942.146146</sub> | <sub>-1912.536520</sub> | <sub>-29.609626</sub> | <sub>170.292462</sub> | <sub>192.402246</sub> | <sub>24.977155</sub> |   
+<b><sub>NC_all</sub></b> | <sub>0.996726</sub> | <sub>243.683687</sub> | <sub>-2924.972271</sub> | <sub>-2934.064068</sub> | <sub>9.091797</sub> | <sub>247.627842</sub> | <sub>272.816345</sub> | <sub>29.254521</sub> |   
+<b><sub>OC_all</sub></b> | <sub>0.996343</sub> | <sub>307.220951</sub> | <sub>-2601.182827</sub> | <sub>-2589.306023</sub> | <sub>-11.876804</sub> | <sub>256.582355</sub> | <sub>289.833688</sub> | <sub>37.119741</sub> |   
+<b><sub>FC_all</sub></b> | <sub>0.997825</sub> | <sub>145.341794</sub> | <sub>-2152.618121</sub> | <sub>-2111.912059</sub> | <sub>-40.706062</sub> | <sub>224.388041</sub> | <sub>258.514125</sub> | <sub>35.927896</sub> |   
+<b><sub>CC_all</sub></b> | <sub>0.997608</sub> | <sub>393.210602</sub> | <sub>-3014.362981</sub> | <sub>-3034.498832</sub> | <sub>20.135852</sub> | <sub>376.314560</sub> | <sub>405.453299</sub> | <sub>34.845894</sub> |   
+(kcal/mol)<br><br><br><br><br>
+
+
+<p align="center"><img src=/Data/expectationPlots/Bonded/Bonded/plots/Bonded_KE.png /></p>
+
+  | <sub>R^2</sub> | <sub>RMSE</sub> | <sub>LL_mean</sub> | <sub>QU_mean</sub> | <sub>Mean(LL-QU)</sub> | <sub>LL_std</sub> | <sub>QU_std</sub> | <sub>Std(LL-QU)</sub>
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:  
+<b><sub>CH_all</sub></b> | <sub>0.953297</sub> | <sub>46.302704</sub> | <sub>104.844878</sub> | <sub>100.311331</sub> | <sub>4.533547</sub> | <sub>21.041940</sub> | <sub>31.486836</sub> | <sub>11.849425</sub> |   
+<b><sub>NH_all</sub></b> | <sub>0.991218</sub> | <sub>7.208714</sub> | <sub>114.072906</sub> | <sub>107.391328</sub> | <sub>6.681579</sub> | <sub>18.463119</sub> | <sub>28.649881</sub> | <sub>10.412778</sub> |   
+<b><sub>OH_all</sub></b> | <sub>0.988909</sub> | <sub>13.350893</sub> | <sub>113.777801</sub> | <sub>95.653653</sub> | <sub>18.124148</sub> | <sub>22.174490</sub> | <sub>34.695825</sub> | <sub>12.858472</sub> |   
+<b><sub>NC_all</sub></b> | <sub>0.983350</sub> | <sub>16.294264</sub> | <sub>123.518812</sub> | <sub>128.513782</sub> | <sub>-4.994970</sub> | <sub>19.840304</sub> | <sub>31.282904</sub> | <sub>11.887416</sub> |   
+<b><sub>OC_all</sub></b> | <sub>0.990240</sub> | <sub>16.365139</sub> | <sub>125.259480</sub> | <sub>117.415819</sub> | <sub>7.843660</sub> | <sub>25.497359</sub> | <sub>40.947228</sub> | <sub>15.777003</sub> |   
+<b><sub>FC_all</sub></b> | <sub>0.989301</sub> | <sub>17.271022</sub> | <sub>109.741334</sub> | <sub>80.281310</sub> | <sub>29.460024</sub> | <sub>24.531149</sub> | <sub>40.178827</sub> | <sub>15.981958</sub> |   
+<b><sub>CC_all</sub></b> | <sub>0.968398</sub> | <sub>44.868536</sub> | <sub>114.181534</sub> | <sub>123.337578</sub> | <sub>-9.156044</sub> | <sub>24.970417</sub> | <sub>37.680408</sub> | <sub>13.838948</sub> |   
+(kcal/mol)<br><br><br><br><br>
+
+
+<p align="center"><img src=/Data/expectationPlots/Bonded/Bonded/plots/Bonded_S.png /></p>
+
+  | <sub>R^2</sub> | <sub>RMSE</sub> | <sub>LL_mean</sub> | <sub>QU_mean</sub> | <sub>Mean(LL-QU)</sub> | <sub>LL_std</sub> | <sub>QU_std</sub> | <sub>Std(LL-QU)</sub>
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:  
+<b><sub>CH_all</sub></b> | <sub>0.999859</sub> | <sub>0.000000</sub> | <sub>0.377715</sub> | <sub>0.377552</sub> | <sub>0.000163</sub> | <sub>0.020366</sub> | <sub>0.020617</sub> | <sub>0.000349</sub> |   
+<b><sub>NH_all</sub></b> | <sub>0.999944</sub> | <sub>0.000000</sub> | <sub>0.333843</sub> | <sub>0.333494</sub> | <sub>0.000349</sub> | <sub>0.015781</sub> | <sub>0.016079</sub> | <sub>0.000320</sub> |   
+<b><sub>OH_all</sub></b> | <sub>0.999906</sub> | <sub>0.000000</sub> | <sub>0.257323</sub> | <sub>0.256582</sub> | <sub>0.000741</sub> | <sub>0.013675</sub> | <sub>0.013980</sub> | <sub>0.000333</sub> |   
+<b><sub>NC_all</sub></b> | <sub>0.999855</sub> | <sub>0.000000</sub> | <sub>0.332072</sub> | <sub>0.331559</sub> | <sub>0.000513</sub> | <sub>0.015968</sub> | <sub>0.016128</sub> | <sub>0.000251</sub> |   
+<b><sub>OC_all</sub></b> | <sub>0.999843</sub> | <sub>0.000000</sub> | <sub>0.273544</sub> | <sub>0.272766</sub> | <sub>0.000778</sub> | <sub>0.018191</sub> | <sub>0.018263</sub> | <sub>0.000239</sub> |   
+<b><sub>FC_all</sub></b> | <sub>0.999689</sub> | <sub>0.000000</sub> | <sub>0.216477</sub> | <sub>0.216069</sub> | <sub>0.000408</sub> | <sub>0.012821</sub> | <sub>0.012696</sub> | <sub>0.000257</sub> |   
+<b><sub>CC_all</sub></b> | <sub>0.999891</sub> | <sub>0.000000</sub> | <sub>0.360956</sub> | <sub>0.360805</sub> | <sub>0.000151</sub> | <sub>0.020550</sub> | <sub>0.020616</sub> | <sub>0.000225</sub> |   
+(unitless)<br><br><br><br><br>
+
+
+<p align="center"><img src=/Data/expectationPlots/Bonded/Bonded/plots/Bonded_J.png /></p>
+
+  | <sub>R^2</sub> | <sub>RMSE</sub> | <sub>LL_mean</sub> | <sub>QU_mean</sub> | <sub>Mean(LL-QU)</sub> | <sub>LL_std</sub> | <sub>QU_std</sub> | <sub>Std(LL-QU)</sub>
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:  
+<b><sub>CH_all</sub></b> | <sub>0.998134</sub> | <sub>50.106459</sub> | <sub>1143.454555</sub> | <sub>1135.231137</sub> | <sub>8.223418</sub> | <sub>157.866515</sub> | <sub>163.870464</sub> | <sub>9.183713</sub> |   
+<b><sub>NH_all</sub></b> | <sub>0.997217</sub> | <sub>23.239029</sub> | <sub>1074.021086</sub> | <sub>1066.803432</sub> | <sub>7.217654</sub> | <sub>85.698578</sub> | <sub>91.384421</sub> | <sub>7.357793</sub> |   
+<b><sub>OH_all</sub></b> | <sub>0.996818</sub> | <sub>21.400392</sub> | <sub>895.703207</sub> | <sub>885.364612</sub> | <sub>10.338595</sub> | <sub>75.350761</sub> | <sub>82.007211</sub> | <sub>7.999209</sub> |   
+<b><sub>NC_all</sub></b> | <sub>0.997715</sub> | <sub>33.311088</sub> | <sub>1362.769183</sub> | <sub>1360.613170</sub> | <sub>2.156012</sub> | <sub>112.818535</sub> | <sub>120.739409</sub> | <sub>9.689367</sub> |   
+<b><sub>OC_all</sub></b> | <sub>0.997452</sub> | <sub>39.461600</sub> | <sub>1207.518699</sub> | <sub>1200.663584</sub> | <sub>6.855116</sub> | <sub>114.495089</sub> | <sub>124.449697</sub> | <sub>11.637117</sub> |   
+<b><sub>FC_all</sub></b> | <sub>0.998632</sub> | <sub>16.446043</sub> | <sub>1001.923606</sub> | <sub>990.279259</sub> | <sub>11.644347</sub> | <sub>99.814636</sub> | <sub>109.658544</sub> | <sub>10.577209</sub> |   
+<b><sub>CC_all</sub></b> | <sub>0.998528</sub> | <sub>51.122613</sub> | <sub>1410.209318</sub> | <sub>1412.465452</sub> | <sub>-2.256135</sub> | <sub>176.782682</sub> | <sub>186.357389</sub> | <sub>11.840139</sub> |   
+(kcal/mol)<br><br><br><br><br>
+
+
