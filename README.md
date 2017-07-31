@@ -1,4 +1,4 @@
-[Preliminary Chemical Data Summaries](https://github.com/BrandonJernigan/Research-Machine-Learning-Computational-Chemistry-Project-Carnegie-Mellon-2015/blob/master/Chemical%20Data%20Summaries.md)
+[Preliminary Chemical Data Summaries Here](https://github.com/BrandonJernigan/Research-Machine-Learning-Computational-Chemistry-Project-Carnegie-Mellon-2015/blob/master/Chemical%20Data%20Summaries.md)
 
 # Overview
 
