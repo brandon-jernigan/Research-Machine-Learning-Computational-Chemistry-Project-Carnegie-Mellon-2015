@@ -1,6 +1,6 @@
 ## Prediction Tables
 
-Generated with [predictionTable.py](/predictionTable.py]
+Generated with [predictionTable.py](/predictionTable.py)
 
 Currently in units of kcal/mol
 
