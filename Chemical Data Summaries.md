@@ -1,4 +1,4 @@
-##Prediction Tables
+## Prediction Tables
 
 Generated with [predictionTable.py](/predictionTable.py]
 
@@ -8,7 +8,7 @@ Currently in units of kcal/mol
 
 [CH bonds](/Data/predictionTables/CH/KE/CH_KE.csv)
 
-##Expectation Value Plots(LL vs QU):
+## Expectation Value Plots(LL vs QU):
 
 (Generated with [calcExpectation.py](/calcExpectation.py))
 
@@ -83,7 +83,7 @@ F = KE + H1nuc + 2 * J – K
 
 [F](/Data/expectationPlots/Self/F/F%28Self%29.md)
 
-##Norm Plots(LL vs QU):
+## Norm Plots(LL vs QU):
 
 (Generated with [compareNorms.py](/compareNorms.py))
 
